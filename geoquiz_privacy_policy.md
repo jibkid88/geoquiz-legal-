@@ -101,19 +101,28 @@ review their policies if you have questions beyond what's described here.
 
 ---
 
-## 5. Children's Privacy
+## 5. Children's Privacy & Age Guidance
 
-GeoQuiz is not directed at children under 13, and we do not knowingly collect
-personal information from children under 13. The App offers a "Family-friendly"
-content style; other content styles ("General," "Spicy") may include mature themes
-not intended for children. [FILL IN once age rating is finalized: confirm whether
-the App's overall age rating reflects the most mature content style available.]
+GeoQuiz is intended for users **13 and older**. We do not knowingly collect personal
+information from children under 13, and the App is not directed at that age group.
+
+GeoQuiz offers different content styles ("Family-friendly," "General," "Spicy").
+None are intended to include explicit content, but "Spicy" leans into gossip,
+scandal, and adult-flavored historical trivia in tone, which is why the App overall
+is intended for users 13 and older rather than a younger audience.
+
+**Driver Mode**: GeoQuiz includes a "Driver" play mode intended for use only by
+someone who is a legally licensed driver, operating the vehicle lawfully, and
+using the App in a manner consistent with all applicable traffic and distracted-
+driving laws in their jurisdiction. GeoQuiz is not a substitute for safe driving
+practices, and by selecting Driver mode, the user confirms they meet these
+requirements. See the in-app Driver Safety notice shown before this mode is used.
 
 ---
 
 ## 6. Your Choices
 
-- **Location**: you can deny or revoke location access at any time in iOS Settings
+- **Location**: You can deny or revoke location access at any time in iOS Settings
   → Privacy & Security → Location Services. The App's core trivia features require
   location to find nearby places.
 - **Microphone / Speech Recognition**: voice-answering is optional and off by
@@ -133,7 +142,7 @@ revised policy.
 ## 8. Contact Us
 
 Questions about this policy or how GeoQuiz handles information can be sent to:
-**devon.rogalski@gmail.com**
+devon.rogalski@gmail.com
 
 ---
 
